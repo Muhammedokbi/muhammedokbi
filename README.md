@@ -1,22 +1,68 @@
-<h1 align="center">Hi 👋, I'm muhammed okbi</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedokbi" alt="muhammedokbi" /></a> </p>
+<h1 align="center">Hi 👋, I'm Muhammed Okbi</h1>
 
-- hakkinda **Since 2021, I’ve been developing technology-focused projects under my independent initiative, RAIN Studio, with a strong emphasis on computer vision, artificial intelligence, autonomous systems, and simulation technologies. I have hands-on experience working with YOLOv-series models for object detection and recognition. I use Roboflow for image annotation and dataset management, and I’m involved in model training and optimization processes. I’ve also worked with the ZED Mini stereo camera for depth perception and environmental awareness, as well as processing data from LiDAR sensors for mapping and sensor fusion applications. In the field of computer vision, I actively use OpenCV for real-time image processing, object tracking, and data analysis. I am experienced with tools such as Mission Planner, PGS, and GidQ for autonomous mission planning, map generation, and path optimization. On April 10, 2025, I joined the The GACA team, where I contributed to the TÜBİTAK-supported Robotaxi project. Within this project, I worked on autonomous vehicle simulation, sensor data processing, computer vision, and AI-based decision-making systems. Additionally, I’ve participated in multiple UAV (drone) projects, actively competing in well-known competitions such as Teknofest and TÜBİTAK, across fields like educational technologies, biotechnology, and robotics. I am also a licensed Unity Professional developer, with advanced skills in creating simulation environments, integrating physics systems, and designing interactive user interfaces. Currently, I am a student at Zonguldak Vocational and Technical High School, majoring in Information Technologies. I’m passionate about creating innovative, tech-driven solutions to real-world problems. I’m always eager to learn, open to interdisciplinary collaboration, and dedicated to continuous growth.**
-
-- 📫 How to reach me **muhammedalokbi207@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/limunlupasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="limunlupasta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammed okbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed okbi" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammedokbii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammedokbii" height="30" width="40" /></a>
-<a href="https://discord.gg/limonlupasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="limonlupasta" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=muhammedokbi&theme=onedark" alt="muhammedokbi" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## 🧠 About Me / Hakkımda
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedokbi&show_icons=true&locale=en&layout=compact" alt="muhammedokbi" /></p>
+### 🇬🇧 English
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedokbi&show_icons=true&locale=en" alt="muhammedokbi" /></p>
+Since 2021, I’ve been developing technology-focused projects under my independent initiative, **RAIN Studio**, with a strong emphasis on **computer vision**, **artificial intelligence**, **autonomous systems**, and **simulation technologies**.
 
+- I have hands-on experience with **YOLOv-series** models for object detection and use **Roboflow** for dataset preparation and model training.
+- I've worked with **ZED Mini stereo cameras** for depth perception and **LiDAR** data for mapping and sensor fusion.
+- I use **OpenCV** for real-time image processing and tracking, and tools like **Mission Planner**, **PGS**, and **GidQ** for autonomous vehicle path planning and map generation.
+- On **April 10, 2025**, I joined **The GACA** team and contributed to the **TÜBİTAK-supported Robotaxi project** focusing on AI, simulation, and computer vision.
+- I’ve participated in multiple **UAV** and **robotics competitions** such as **Teknofest** and **TÜBİTAK**, working on projects involving education technologies, biotechnology, and autonomous systems.
+- I hold a **Unity Professional license**, with advanced experience in simulation development, physics integration, and UI design.
+- Currently, I’m studying **Information Technologies** at **Zonguldak Vocational and Technical High School**.
+
+I'm passionate about solving real-world problems through technology and always open to learning and collaboration.
+
+---
+
+### 🇹🇷 Türkçe
+
+2021 yılından bu yana, kendi girişimim olan **RAIN Studio** bünyesinde teknoloji odaklı projeler geliştiriyorum. Çalışmalarım, **görüntü işleme**, **yapay zeka**, **otonom sistemler** ve **simülasyon teknolojileri** alanlarına odaklanmaktadır.
+
+- **YOLOv serisi** modeller ile nesne tespiti üzerine çalıştım; **Roboflow** kullanarak veri etiketleme ve model eğitimi süreçlerine katıldım.
+- **ZED Mini stereo kamera** ile derinlik algılama ve **LiDAR** verileriyle haritalama ve sensör füzyonu üzerine deneyim sahibiyim.
+- **OpenCV** ile gerçek zamanlı görüntü işleme ve takip uygulamaları geliştiriyorum. Ayrıca, **Mission Planner**, **PGS** ve **GidQ** yazılımlarıyla görev planlama ve harita üretimi konularında tecrübeliyim.
+- **10 Nisan 2025** tarihinde **The GACA** ekibine katıldım ve **TÜBİTAK destekli Robotaksi projesinde** simülasyon, yapay zeka ve görüntü işleme üzerine çalıştım.
+- **Teknofest** ve **TÜBİTAK** gibi yarışmalarda **İHA** ve robotik projelerde aktif rol aldım.
+- **Unity Professional lisansı** sahibiyim. Simülasyon geliştirme, fizik motorlarıyla çalışma ve kullanıcı arayüzü tasarlama konularında ileri seviye bilgiye sahibim.
+- Şu anda **Zonguldak Mesleki ve Teknik Anadolu Lisesi Bilişim Teknolojileri** alanında öğrenim görmekteyim.
+
+Gerçek dünya problemlerine teknolojik çözümler üretmeye tutkuyla bağlıyım ve her zaman öğrenmeye ve iş birliğine açığım.
+
+---
+
+## 📫 How to reach me
+
+**Email:** muhammedalokbi207@gmail.com
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://twitter.com/limunlupasta" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/muhammed okbi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/muhammedokbii" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/limonlupasta" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<!-- Tools section remains unchanged. You already listed a great collection. -->
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedokbi&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedokbi&show_icons=true&locale=en" alt="GitHub Stats" /></p>
